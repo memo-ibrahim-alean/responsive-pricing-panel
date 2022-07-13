@@ -1,0 +1,16 @@
+{
+  "name": "responsive-pricing-panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mohamed-ibrahim-alean.github.io/responsive-pricing-panel",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
